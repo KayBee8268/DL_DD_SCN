@@ -1,0 +1,10 @@
+data/ShanghaiTech/part_A/test_data/images/IMG_1.jpg
+data/ShanghaiTech/part_A/test_data/images/IMG_2.jpg
+data/ShanghaiTech/part_A/test_data/images/IMG_3.jpg
+data/ShanghaiTech/part_A/test_data/images/IMG_4.jpg
+data/ShanghaiTech/part_A/test_data/images/IMG_5.jpg
+data/ShanghaiTech/part_A/test_data/images/IMG_6.jpg
+data/ShanghaiTech/part_A/test_data/images/IMG_7.jpg
+data/ShanghaiTech/part_A/test_data/images/IMG_8.jpg
+data/ShanghaiTech/part_A/test_data/images/IMG_9.jpg
+data/ShanghaiTech/part_A/test_data/images/IMG_10.jpg

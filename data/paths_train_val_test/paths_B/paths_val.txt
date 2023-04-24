@@ -1,0 +1,6 @@
+data/ShanghaiTech/part_B/train_data/images/IMG_26.jpg
+data/ShanghaiTech/part_B/train_data/images/IMG_27.jpg
+data/ShanghaiTech/part_B/train_data/images/IMG_28.jpg
+data/ShanghaiTech/part_B/train_data/images/IMG_29.jpg
+data/ShanghaiTech/part_B/train_data/images/IMG_30.jpg
+
